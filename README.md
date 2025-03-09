@@ -17,8 +17,7 @@ Project Cleaner is a Python script designed to traverse through a directory cont
 1. Clone the repository or download the script file.
 
 ```sh
-git clone https://github.com/your-username/project-cleaner.git
-cd project-cleaner
+git clone https://github.com/MaheshPhuyal02/Flutter-Clean.git
 ```
 
 2. Ensure you have Python and Flutter installed on your machine.
@@ -34,7 +33,7 @@ cd path/to/project-cleaner
 3. Run the script using Python.
 
 ```sh
-python cleaner.py
+python3 cleaner.py
 ```
 
 By default, the script will use the current directory of the terminal as the root directory and traverse through it to find and clean Flutter projects.
