@@ -41,8 +41,5 @@ By default, the script will use the current directory of the terminal as the roo
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or suggestions, please open an issue or contact the repository owner.
